@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project4</string>
+    <string name="start_game">Start Game</string>
+    <string name="automate">Automate</string>
+    <string name="manual">Manual</string>
+    <string name="next_button_text">Next</string>
+    <string name="player1">Player - 1</string>
+    <string name="player2">Player - 2</string>
+</resources>
